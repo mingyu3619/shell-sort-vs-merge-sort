@@ -37,7 +37,7 @@ selction_sort.py  shell_sort.py 를 통해 구현
  merge_sort2.py를 통해 in-place한 merge sort 구현
  
  # 결과
- ![제목 없음](https://user-images.githubusercontent.com/86222639/146517415-77646226-e6cc-4abc-8fde-86f4ffeae28b.png)
+ 
 
 ![image](https://user-images.githubusercontent.com/86222639/146517493-6e7e65f2-10fa-41f2-aaaa-ccb379614120.png)
 
@@ -45,3 +45,4 @@ selction_sort.py  shell_sort.py 를 통해 구현
 
 ![image](https://user-images.githubusercontent.com/86222639/146517549-11d7d08f-ac4a-46de-8254-c598bb7523fe.png)
 
+![제목 없음](https://user-images.githubusercontent.com/86222639/146517415-77646226-e6cc-4abc-8fde-86f4ffeae28b.png)
