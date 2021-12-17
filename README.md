@@ -2,19 +2,19 @@
 
 # 목차
 
-1 Space –time trade off
+1. Space –time trade off
 
-2 Shell sort
+2. Shell sort
 -Selection sort
 - Shell sort
 - Code
 
-3 Merge sort
+3. Merge sort
 - Merge sort(extra array)
 - Merge sort(in-place)
 
 
-4 성능 비교
+4. 성능 비교
 - 시간 복잡도
 - 공간 복잡도
 - 결론
@@ -36,4 +36,12 @@ selction_sort.py  shell_sort.py 를 통해 구현
  
  merge_sort2.py를 통해 in-place한 merge sort 구현
  
- 
+ # 결과
+ ![제목 없음](https://user-images.githubusercontent.com/86222639/146517415-77646226-e6cc-4abc-8fde-86f4ffeae28b.png)
+
+![image](https://user-images.githubusercontent.com/86222639/146517493-6e7e65f2-10fa-41f2-aaaa-ccb379614120.png)
+
+![image](https://user-images.githubusercontent.com/86222639/146517528-d57af9a3-690f-4bce-958b-64078d0bbf6e.png)
+
+![image](https://user-images.githubusercontent.com/86222639/146517549-11d7d08f-ac4a-46de-8254-c598bb7523fe.png)
+
